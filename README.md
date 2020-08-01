@@ -1,5 +1,5 @@
-### Hola, soy Abril! 
-## Gracias por visitar mi Github, espero que te gusten mis proyectos 😄
+## Hola, soy Abril! 
+### Gracias por visitar mi Github, espero que te gusten mis proyectos 😄
 
 Soy una apasionada de la tecnología, la matemática y la resolución de problemas. El día que descubrí la programmación y la importancia de las computadoras, supe que por ahí era mi camino!
 
