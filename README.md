@@ -9,9 +9,9 @@ Soy desarrolladora web full stack y diseñadora UX/UI, y trabajo con estas tecno
 - Backend: NodeJS, ExpressJS, SQL, MySQL
 - Diseño UX/ UI: Diseño centrado en el usuario, Dseign thinking, Arquitectura de la información, diseño de interfaces y prototipado en Figma o AdobeXD
 
-- Actualmente estoy aprendiendo *ReactJS* y *MongoDB*
+- Actualmente estoy aprendiendo **ReactJS** y **MongoDB**
 
-Buscame en LinkedIN
+Buscame en [LinkedIN](https://www.linkedin.com/in/abrilgarciaduran/)
 
 <!--
 **abrilgarciaduran/abrilgarciaduran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
