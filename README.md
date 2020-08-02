@@ -11,7 +11,7 @@ Soy desarrolladora web full stack y diseñadora UX/UI, y trabajo con estas tecno
 
 - Actualmente estoy aprendiendo **ReactJS** y **MongoDB**
 
-Buscame en [LinkedIN](https://www.linkedin.com/in/abrilgarciaduran/)
+Buscame en ➡ [LinkedIN](https://www.linkedin.com/in/abrilgarciaduran/) ⬅
 
 <!--
 **abrilgarciaduran/abrilgarciaduran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
