@@ -5,11 +5,11 @@
 Soy una apasionada de la tecnología, la matemática y la resolución de problemas. El día que descubrí la programación y la importancia de las computadoras, supe que por ahí era mi camino!
 
 Soy desarrolladora web full stack y diseñadora UX/UI, y trabajo con estas tecnologías
-- Frontend: HTML, CSS (con Emmet y Sass) Bootstrap, Javascript
+- Frontend: Vue.js, HTML, CSS (con Emmet y Sass) Bootstrap, Javascript
 - Backend: NodeJS, ExpressJS, SQL, MySQL
 - Diseño UX/ UI: Diseño centrado en el usuario, Dseign thinking, Arquitectura de la información, diseño de interfaces y prototipado en Figma o AdobeXD
 
-- Actualmente estoy aprendiendo **ReactJS** y **MongoDB**
+- Actualmente estoy aprendiendo **ReactJS**
 
 Buscame en ➡ [LinkedIN](https://www.linkedin.com/in/abrilgarciaduran/) ⬅
 
