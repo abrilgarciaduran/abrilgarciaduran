@@ -7,7 +7,7 @@ Soy una apasionada de la tecnología, la matemática y la resolución de problem
 Soy desarrolladora web full stack y diseñadora UX/UI, y trabajo con estas tecnologías
 - Frontend: Vue.js, HTML, CSS (con Emmet y Sass) Bootstrap, Javascript
 - Backend: NodeJS, ExpressJS, SQL, MySQL
-- Diseño UX/ UI: Diseño centrado en el usuario, Dseign thinking, Arquitectura de la información, diseño de interfaces y prototipado en Figma o AdobeXD
+- Diseño UX/ UI: Diseño centrado en el usuario, Design thinking, Arquitectura de la información, diseño de interfaces y prototipado en Figma o AdobeXD
 
 - Actualmente estoy aprendiendo **ReactJS**
 
